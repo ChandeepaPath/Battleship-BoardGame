@@ -10,19 +10,19 @@ This project recreates Battleship with drag-and-drop interaction, multiplayer su
 
 ## 🔹 Main Stages
 
--Main Menu
-  -Options to host or join a multiplayer session.
-  -Starts the top-down level once connected.
+- Main Menu
+  - Options to host or join a multiplayer session.
+  - Starts the top-down level once connected.
   
--Entity Placement
-  -Each player drags their ships onto the 3D board.
-  -Rotation allowed.
-  -Confirm/Ready button once all ships are placed.
+- Entity Placement
+  - Each player drags their ships onto the 3D board.
+  - Rotation allowed.
+  - Confirm/Ready button once all ships are placed.
   
--Gameplay Loop
-  -Players take turns selecting their opponent’s board tiles.
-  -Server replicates result (hit or miss).
-  -The game ends when one player loses all ships.
+- Gameplay Loop
+  - Players take turns selecting their opponent’s board tiles.
+  - Server replicates result (hit or miss).
+  - The game ends when one player loses all ships.
   
--Game Over
-  -Results shown with replay/quit options.
+- Game Over
+  - Results shown with replay/quit options.
